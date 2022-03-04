@@ -70,7 +70,7 @@ const register = (): void => {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
-  background-image: url("src/assets/bg.png");
+  background-image: url("../assets/bg.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;

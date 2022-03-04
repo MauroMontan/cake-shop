@@ -60,7 +60,7 @@ const login = (): void => {
 
 <style>
 .container {
-  background-image: url("src/assets/bg.png");
+  background-image: url("../assets/bg.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
