@@ -21,7 +21,7 @@ const { cakes } = storeToRefs(store);
 <style>
 .bg {
   padding: 3rem;
-  background-image: url("src/assets/bg.png");
+  background-image: url("../assets/bg.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
