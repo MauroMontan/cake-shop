@@ -24,8 +24,12 @@ const logOut = () => {
     elevation="1"
     app
   >
-    <v-app-bar-title>Maggie´s Cakes</v-app-bar-title>
-
+    <v-img
+      src="https://i.imgur.com/MTirCXY.png"
+      max-height="120"
+      max-width="120"
+      contain
+    ></v-img>
     <template v-slot:append>
       <v-badge
         v-if="cartLenght !== '0'"
